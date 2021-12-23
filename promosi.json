@@ -1,0 +1,19 @@
+{
+    "promosi": [
+        {
+            "id": 101,
+            "name": "Promo 12 12",
+            "jumlah": 1
+        },
+        {
+            "id": 102,
+            "name": "Midnight",
+            "jumlah": 3
+        },
+        {
+            "id": 103,
+            "name": "New Year",
+            "jumlah": 20
+        }
+    ]
+}
